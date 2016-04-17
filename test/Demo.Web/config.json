@@ -1,0 +1,12 @@
+﻿{
+  "AppConfiguration": {
+    "Elasticsearch": {
+      "Server1Addresss": "172.28.128.10",
+      "Server1Port": "9200",
+      "Server2Addresss": "172.28.128.11",
+      "Server2Port": "9200",
+      "Server3Addresss": "172.28.128.12",
+      "Server3Port": "9200"
+    }
+  }
+}
